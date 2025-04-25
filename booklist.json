@@ -1,5 +1,4 @@
-{
-  "booklist" :[
+[
   {
     "id": 1,
     "title": "The Great Gatsby",
@@ -17,4 +16,3 @@
     "coverUrl": "https://example.com/1984.jpg"
   }
     ]
-}
