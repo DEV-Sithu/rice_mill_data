@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
+    "title": "မိုးစပါး၊နွေစပါးအကြောင်းနှင့်အခြားဆောင်းပါးများ"
+    "author": "စာရေးသူ - ဆင်းသီဟ",
     "download": "https://dev-sithu.github.io/rice_mill_data/rice.pdf",
-    "description": "A story of the mysteriously wealthy Jay Gatsby...",
+    "description": "A story .",
     "coverUrl": "https://example.com/great-gatsby.jpg"
   },
   {
