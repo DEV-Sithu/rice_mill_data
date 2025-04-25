@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "download": "https://dev-sithu.github.io/rice_mill_data/rice.pdf",
+    "description": "A story of the mysteriously wealthy Jay Gatsby...",
+    "coverUrl": "https://example.com/great-gatsby.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "download": "https://dev-sithu.github.io/rice_mill_data/paddy.pdf",
+    "description": "A dystopian novel about totalitarianism...",
+    "coverUrl": "https://example.com/1984.jpg"
+  }
+]
