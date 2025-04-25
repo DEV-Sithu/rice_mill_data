@@ -1,4 +1,5 @@
-[
+{
+  "booklist" :[
   {
     "id": 1,
     "title": "The Great Gatsby",
@@ -15,4 +16,5 @@
     "description": "A dystopian novel about totalitarianism...",
     "coverUrl": "https://example.com/1984.jpg"
   }
-]
+    ]
+}
