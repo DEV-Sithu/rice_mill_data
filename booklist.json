@@ -85,38 +85,14 @@
     "author": "ဆန်စပါးအသင်း",
     "download": "https://dev-sithu.github.io/rice_mill_data/စပါးအမျိုးအစားများ.pdf",
     "description": "File size - 1.2 Mb",
-    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/စပါးအမျိုးအစားများ.jpg"
+    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/စပါးအမျိုးအစားများ.png"
   },
     {
     "id": 12,
-    "title": "1984",
-    "author": "George Orwell",
-    "download": "https://dev-sithu.github.io/rice_mill_data/paddy.pdf",
-    "description": "File size - 4.41 Mb",
-    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/1984.jpg"
-  },
-    {
-    "id": 13,
-    "title": "1984",
-    "author": "George Orwell",
-    "download": "https://dev-sithu.github.io/rice_mill_data/paddy.pdf",
-    "description": "File size - 4.41 Mb",
-    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/1984.jpg"
-  },
-    {
-    "id": 14,
-    "title": "1984",
-    "author": "George Orwell",
-    "download": "https://dev-sithu.github.io/rice_mill_data/paddy.pdf",
-    "description": "File size - 4.41 Mb",
-    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/1984.jpg"
-  },
-    {
-    "id": 15,
-    "title": "1984",
-    "author": "George Orwell",
-    "download": "https://dev-sithu.github.io/rice_mill_data/paddy.pdf",
-    "description": "File size - 4.41 Mb",
-    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/1984.jpg"
+    "title": "ပေါင်းဆန် Parboiling",
+    "author": "ရေးသားသူ - မောင်အုန်းပွင့်",
+    "download": "https://dev-sithu.github.io/rice_mill_data/ပေါင်းဆန် Parboiling.pdf",
+    "description": "File size - 3.6 Mb",
+    "coverUrl": "https://dev-sithu.github.io/rice_mill_data/ပေါင်းဆန် Parboiling.png"
   }
     ]
